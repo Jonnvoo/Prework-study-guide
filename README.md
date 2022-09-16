@@ -9,7 +9,7 @@ I created this webpage to help me prepare for my coding Bootcamp. It helps me ke
 N/A
 
 ## Usage
-This prework-study-guide webpage contains information on topics that we will be learning. There is a section for HTML, CSS, Git, and JavaScript. It has all these topics in one webpage for you to refer back to if you need information on a certain topic. In the console of the webpage when you click inspect has information on what we learned throughout the prework and also gives advice on which topic you should study first which is HTML.
+This prework-study-guide webpage contains information on topics that we will be learning. There is a section for HTML, CSS, Git, and JavaScript. It has all these topics in one webpage for you to refer back to if you need information on a certain topic. In the console of the webpage when you click inspect has information on what we learned throughout the prework and also gives advice on which topic you should study first which switches each time you reload the page because of the JavaScript. An example it would say Let's study CSS!"
 
 ## Credits
 
